@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lab33</string>
+    <string name="label">Головний екран</string>
+    <string name="edittext">Введіть текст</string>
+    <string name="button1">Інформація про автора</string>
+    <string name="button2">Інформація про факультет</string>
+    <string name="button3">Інформація про місто</string>
+    <string name="author_info">Автор додатку: Дорошенко Валерія\nВведений текст: %1$s</string>
+    <string name="faculty_info">Факультет: Факультет інформаційних технологій\nВведений текст: %1$s</string>
+    <string name="city_info">Місто: Київ\nВведений текст: %1$s</string>
+</resources>
